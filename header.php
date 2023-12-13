@@ -135,7 +135,7 @@
             </li>
             <li><a href="story.html" title="우리 이야기">우리 이야기<i class='fas fa-angle-down'></i></a>
               <ul class="sub">
-                <li><a href="#" title="우리이야기">우리이야기</a></li>
+                <li><a href="story.html" title="우리이야기">우리이야기</a></li>
                 <li><a href="#" title="우리의약속">우리의약속</a></li>
                 <li><a href="#" title="100% 휴먼그레이드">100% 휴먼그레이드</a></li>
                 <li><a href="#" title="이노베이션">이노베이션</a></li>
